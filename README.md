@@ -7,10 +7,10 @@
 * *Sisteme yeni kampanya girişi, kampanyanın silinmesi ve güncellenmesi imkanlarını simule ettik.*
 * *Satışlarda kampanya entegrasyonunu simule ettik.*
 
-## Üye,Kampanya,Satış için Ekleme,Güncelleme,Silme
+## :pushpin: Üye,Kampanya,Satış için Ekleme,Güncelleme,Silme
 ![Foto](https://raw.githubusercontent.com/furkanpasaoglu/githubImages/main/MyGameProject.png)
 
-# Doğrulama
+# :pushpin: Doğrulama
 ![Kural](https://raw.githubusercontent.com/furkanpasaoglu/githubImages/main/Check.png)
 
 ## :pencil2:Authors
