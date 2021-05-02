@@ -5,7 +5,7 @@
 * *Müşteri bilgilerinin doğruluğunu e-devlet sistemlerini kullanarak benzer bir servis simüle ettik.*
 * *Oyun satışı yapılabilecek satış ortamını simule ettik.(Yapılan satışlar oyuncu ile ilişkilendirildi.)*
 * *Sisteme yeni kampanya girişi, kampanyanın silinmesi ve güncellenmesi imkanlarını simule ettik.*
-* * Satışlarda kampanya entegrasyonunu simule ettik.*
+* *Satışlarda kampanya entegrasyonunu simule ettik.*
 
 ## Üye,Kampanya,Satış için Ekleme,Güncelleme,Silme
 ![Foto](https://raw.githubusercontent.com/furkanpasaoglu/githubImages/main/MyGameProject.png)
