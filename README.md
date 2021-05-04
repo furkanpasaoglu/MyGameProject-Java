@@ -8,10 +8,10 @@
 * *Satışlarda kampanya entegrasyonunu simule ettik.*
 
 ## :pushpin: Üye,Kampanya,Satış için Ekleme,Güncelleme,Silme
-![Foto](https://raw.githubusercontent.com/furkanpasaoglu/githubImages/main/MyGameProject.png)
+![MyGameProject](https://user-images.githubusercontent.com/16624085/117003379-77ad3a00-aced-11eb-8055-c3aec19b0be3.png)
 
 ## :pushpin: Doğrulama
-![Kural](https://raw.githubusercontent.com/furkanpasaoglu/githubImages/main/Check.png)
+![Check](https://user-images.githubusercontent.com/16624085/117003409-7f6cde80-aced-11eb-8740-2a5d90484d86.png)
 
 ## :pencil2:Authors
 * **Furkan Paşaoğlu** - [furkanpasaoglu](https://github.com/furkanpasaoglu)
