@@ -1,4 +1,8 @@
-public class BaseRepository<Entity> implements Repository<Entity>{
+package Concrete.Base;
+
+import Abstract.Base.Repository;
+
+public class BaseRepository<Entity> implements Repository<Entity> {
     @Override
     public Entity add(Entity entity) {
         return entity;

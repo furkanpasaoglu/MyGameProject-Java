@@ -1,4 +1,8 @@
-public class User implements Entity{
+package Entities;
+
+import Abstract.Entity;
+
+public class User implements Entity {
     private int _id;
     private String _firstName;
     private String _lastName;

@@ -1,5 +1,7 @@
+package Constants;
+
 public class Messages {
-    //Campaign
+    //entities.concrete.Campaign
     public static String campaignTitle= "-----------Kampanya-----------";
     public static String createdCampaign= "Kampanya Başarıyla Oluşturuldu.";
     public static String deletedCampaign= "Kampanya Başarıyla Silindi.";
@@ -7,7 +9,7 @@ public class Messages {
     public static String campaignName= "Kampanya Adı: ";
     public static String campaignDiscount= " Kampanya İndirim Oranı: % ";
 
-    //User
+    //entities.concrete.User
     public static String userTitle= "-----------Kullanıcı-----------";
     public static String createdUser= "Kullanıcı Başarıyla Oluşturuldu.";
     public static String deletedUser= "Kullanıcı Başarıyla Silindi.";
@@ -19,7 +21,7 @@ public class Messages {
     public static String userName= "Kullanıcı Adı: ";
     public static String password= "Kullanıcı Şifresi: ";
 
-    //Sell
+    //entities.concrete.Sell
     public static String sellTitle="-----------Satış-----------";
     public static String sellFailed="Satış Başarısız";
     public static String sellSpecialForYouCampaign="Size Özel Kampanya Yapıldı";

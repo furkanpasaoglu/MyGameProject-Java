@@ -1,4 +1,8 @@
-public class Campaign implements Entity{
+package Entities;
+
+import Abstract.Entity;
+
+public class Campaign implements Entity {
     private int _id;
     private String _campaignName;
     private double _discount;

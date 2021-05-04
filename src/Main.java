@@ -1,3 +1,14 @@
+import Abstract.CampaignService;
+import Abstract.SellService;
+import Abstract.UserService;
+import Concrete.*;
+import Concrete.Base.CampaignDao;
+import Concrete.Base.SellDao;
+import Concrete.Base.UserDao;
+import Entities.Campaign;
+import Entities.Sell;
+import Entities.User;
+
 public class Main {
 
     public static void main(String[] args) {
@@ -11,10 +22,10 @@ public class Main {
 
         System.out.println("\n");
 
-        //User
-        UserService _userService = new UserManager(new UserDao());
+        //Users
+        UserService _userService = new UserManager(new UserDao(),new UserCheckManager());
         //CheckUser
-        User user1 = new User(1,"Furkan1","Paşaoğlu","12345678910","06.08.1999","furkan123","123");
+        User user1 = new User(1,"Furkan","Paşaoğlu","12345678910","06.08.1999","furkan123","123");
         User updateduser1 = new User(1,"Furkan","Paşaoğlu","12345678910","06.08.1999","furkan123","123456");
         _userService.add(user1);
 //        _userService.update(updateduser1);
@@ -23,7 +34,7 @@ public class Main {
 
         System.out.println("\n");
 
-        //Sell
+        //Sells
         SellService _sellService = new SellManager(new SellDao());
         Sell sell1 = new Sell(1,"GTA V",120);
         _sellService.sell(sell1,user1,campaign1);

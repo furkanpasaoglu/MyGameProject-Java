@@ -1,4 +1,11 @@
-public class CampaignManager implements CampaignService{
+package Concrete;
+
+import Abstract.CampaignService;
+import Concrete.Base.CampaignDao;
+import Constants.Messages;
+import Entities.Campaign;
+
+public class CampaignManager implements CampaignService {
     private CampaignDao _campaignDao;
 
     public CampaignManager(CampaignDao _campaignDao) {
