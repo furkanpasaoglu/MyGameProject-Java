@@ -7,7 +7,8 @@
 ## 📌 Özellikler
 * *Yeni üye, satış ve kampanya nesneleri oluşturuldu.*
 * *Oyuncuların sisteme kayıt olabileceği, bilgilerini güncelleyebileceği, kayıtlarını silebileceği bir ortamı simule ettik.*
-* *Üye bilgilerinin doğruluğunu e-devlet sistemlerini kullanarak benzer bir servis simüle ettik.*
+* *Üye bilgilerinin doğruluğunu e-devlet sistemlerini kullanarak bir servis simüle ettik.*
+`https://tckimlik.nvi.gov.tr/Service/KPSPublic.asmx`
 * *Oyun satışı yapılabilecek satış ortamını simule ettik.(Yapılan satışlar oyuncu ile ilişkilendirildi.*
 * *Sisteme yeni kampanya girişi, kampanyanın silinmesi ve güncellenmesi imkanlarını simule ettik.*
 * *Satışlarda kampanya entegrasyonunu simule ettik.*
